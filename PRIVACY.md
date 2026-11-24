@@ -22,7 +22,7 @@
 
 **9. Modifications.** Cette politique peut être mise à jour. La version en vigueur est celle publiée sur cette page ; la date de mise à jour figure en haut.
 
-**10. Contact.** Pour toute question : [ADRESSE_EMAIL]
+**10. Contact.** Pour toute question : berrmed80@gmail.com
 
 ---
 
@@ -48,7 +48,7 @@
 
 **9. Changes.** This policy may be updated. The version in force is the one published on this page; the update date is shown at the top.
 
-**10. Contact.** For any question: [ADRESSE_EMAIL]
+**10. Contact.** For any question: berrmed80@gmail.com
 
 ---
 
@@ -74,4 +74,4 @@
 
 **9. التعديلات.** قد تُحدَّث هذه السياسة. النسخة السارية هي المنشورة في هذه الصفحة؛ وتاريخ التحديث مذكور في الأعلى.
 
-**10. الاتصال.** لأي سؤال: [ADRESSE_EMAIL]
+**10. الاتصال.** لأي سؤال: berrmed80@gmail.com
