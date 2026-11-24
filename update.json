@@ -1,0 +1,11 @@
+{
+  "min_version_code": 1,
+  "latest_version_code": 6,
+  "update_url": "https://github.com/berrmed80-maker/aekit",
+  "message": {
+    "fr": "Une nouvelle version d'AE Kit est disponible. Mets a jour pour continuer.",
+    "en": "A new version of AE Kit is available. Please update to continue.",
+    "ar": "تتوفر نسخة جديدة من AE Kit. يرجى التحديث للمتابعة.",
+    "darija": "Kayna version jdida dyal AE Kit. Dir mise a jour bach tkemmel."
+  }
+}
